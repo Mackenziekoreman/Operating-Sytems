@@ -1,0 +1,6 @@
+One function of an operating system is starting up the device. 
+On a laptop, there is usually a button you must press in order for the computer to turn on. 
+The battery in the computer must send an electrical current to the computer, in otherwords the system sends a message for the computer to wake up. 
+Within the seconds it takes to turn on your computer, your sytem has ran a series of test to check various functions of the computer. 
+Once everything has been verified, the kernal of the system, which is the core of an operating system, load from the computer internal storage to its RAM.
+The computer may make you verify you are the proper user such as putting in a password or pin number like my computer, which uses Windows 10, has me do.
