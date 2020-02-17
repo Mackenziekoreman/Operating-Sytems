@@ -4,3 +4,7 @@ The battery in the computer must send an electrical current to the computer, in 
 Within the seconds it takes to turn on your computer, your sytem has ran a series of test to check various functions of the computer. 
 Once everything has been verified, the kernal of the system, which is the core of an operating system, load from the computer internal storage to its RAM.
 The computer may make you verify you are the proper user such as putting in a password or pin number like my computer, which uses Windows 10, has me do.
+Another function of an operating system is to manage your programs. Most of the systems we use today are multitasking.
+This allows more than one application to be running and stored in the memory at one time. 
+The technical terms that are used in the text book are one program is in the foreground or the forefront and the other is in the background. The system allows you to easily switch between programs with out having to exit and shut down the program completely. 
+Just as the name states, this allow users to mulitask.
