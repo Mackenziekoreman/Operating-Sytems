@@ -8,3 +8,6 @@ Another function of an operating system is to manage your programs. Most of the 
 This allows more than one application to be running and stored in the memory at one time. 
 The technical terms that are used in the text book are one program is in the foreground or the forefront and the other is in the background. The system allows you to easily switch between programs with out having to exit and shut down the program completely. 
 Just as the name states, this allow users to mulitask.
+Additionally, the function that may be my least favorite is the automatic update feature. The operating system will automatically check to see if new updates are available. 
+The system will automatically install the updates for you, most of the time you have to do little to nothing to update your computer. 
+These updates are usually created to help fix errors from the previous update. The reason this is my least favorite feature is because the updates seem to happen right as I am getting used to the previous update. I feel as though I can not keep up with the new system.
